@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <FxCompile Include="SimplePixelShader.hlsl" />
+    <FxCompile Include="SimpleVertexShader.hlsl" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Direct3DInterop.cpp" />
+    <ClCompile Include="DrumkitRenderer.cpp" />
+    <ClCompile Include="Direct3DBase.cpp" />
+    <ClCompile Include="Direct3DContentProvider.cpp" />
+    <ClCompile Include="pch.cpp" />
+    <ClCompile Include="RandomAccessReader.cpp" />
+    <ClCompile Include="SoundFileReader.cpp" />
+    <ClCompile Include="XAudio2SoundPlayer.cpp" />
+    <ClCompile Include="Playable2D.cpp" />
+    <ClCompile Include="Shake.cpp" />
+    <ClCompile Include="Swing.cpp" />
+    <ClCompile Include="Recorder.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="BasicTimer.h" />
+    <ClInclude Include="Direct3DInterop.h" />
+    <ClInclude Include="DrumkitRenderer.h" />
+    <ClInclude Include="DirectXHelper.h" />
+    <ClInclude Include="Direct3DBase.h" />
+    <ClInclude Include="Direct3DContentProvider.h" />
+    <ClInclude Include="pch.h" />
+    <ClInclude Include="RandomAccessReader.h" />
+    <ClInclude Include="SoundFileReader.h" />
+    <ClInclude Include="XAudio2SoundPlayer.h" />
+    <ClInclude Include="Playable2D.h" />
+    <ClInclude Include="Shake.h" />
+    <ClInclude Include="Swing.h" />
+    <ClInclude Include="Types.h" />
+    <ClInclude Include="Recorder.h" />
+    <ClInclude Include="I2DEffect.h" />
+    <ClInclude Include="ITappable.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="images\background.DDS">
+      <Filter>Images\2D Drumkit</Filter>
+    </Image>
+    <Image Include="images\china.DDS">
+      <Filter>Images\2D Drumkit</Filter>
+    </Image>
+    <Image Include="images\cowbell.dds">
+      <Filter>Images\2D Drumkit</Filter>
+    </Image>
+    <Image Include="images\crash.DDS">
+      <Filter>Images\2D Drumkit</Filter>
+    </Image>
+    <Image Include="images\hihat_closed.DDS">
+      <Filter>Images\2D Drumkit</Filter>
+    </Image>
+    <Image Include="images\hihat_open_lower.DDS">
+      <Filter>Images\2D Drumkit</Filter>
+    </Image>
+    <Image Include="images\hihat_open_upper.DDS">
+      <Filter>Images\2D Drumkit</Filter>
+    </Image>
+    <Image Include="images\kick.DDS">
+      <Filter>Images\2D Drumkit</Filter>
+    </Image>
+    <Image Include="images\locks.DDS">
+      <Filter>Images\2D Drumkit</Filter>
+    </Image>
+    <Image Include="images\ride1.DDS">
+      <Filter>Images\2D Drumkit</Filter>
+    </Image>
+    <Image Include="images\ride2.DDS">
+      <Filter>Images\2D Drumkit</Filter>
+    </Image>
+    <Image Include="images\snare.DDS">
+      <Filter>Images\2D Drumkit</Filter>
+    </Image>
+    <Image Include="images\splash.DDS">
+      <Filter>Images\2D Drumkit</Filter>
+    </Image>
+    <Image Include="images\tom1.DDS">
+      <Filter>Images\2D Drumkit</Filter>
+    </Image>
+    <Image Include="images\tom2.DDS">
+      <Filter>Images\2D Drumkit</Filter>
+    </Image>
+    <Image Include="images\tom3.DDS">
+      <Filter>Images\2D Drumkit</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Font Include="courier.spritefont" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Images">
+      <UniqueIdentifier>{6d75bde1-a003-478e-9004-258e5896915d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Images\2D Drumkit">
+      <UniqueIdentifier>{a9d36613-2ee6-49e6-b118-9679c60cb2c9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Sounds">
+      <UniqueIdentifier>{841fba71-1bf7-4fc8-a7ab-305c4641887b}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Media Include="sounds\hihat1.wav">
+      <Filter>Sounds</Filter>
+    </Media>
+    <Media Include="sounds\hihat2.wav">
+      <Filter>Sounds</Filter>
+    </Media>
+    <Media Include="sounds\kick.wav">
+      <Filter>Sounds</Filter>
+    </Media>
+    <Media Include="sounds\ride1.wav">
+      <Filter>Sounds</Filter>
+    </Media>
+    <Media Include="sounds\ride2.wav">
+      <Filter>Sounds</Filter>
+    </Media>
+    <Media Include="sounds\snare.wav">
+      <Filter>Sounds</Filter>
+    </Media>
+    <Media Include="sounds\splash.wav">
+      <Filter>Sounds</Filter>
+    </Media>
+    <Media Include="sounds\tom1.wav">
+      <Filter>Sounds</Filter>
+    </Media>
+    <Media Include="sounds\tom2.wav">
+      <Filter>Sounds</Filter>
+    </Media>
+    <Media Include="sounds\tom3.wav">
+      <Filter>Sounds</Filter>
+    </Media>
+    <Media Include="sounds\china.wav">
+      <Filter>Sounds</Filter>
+    </Media>
+    <Media Include="sounds\cowbell.wav">
+      <Filter>Sounds</Filter>
+    </Media>
+    <Media Include="sounds\crash.wav">
+      <Filter>Sounds</Filter>
+    </Media>
+  </ItemGroup>
+</Project>
