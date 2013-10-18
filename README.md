@@ -71,13 +71,11 @@ Important classes:
 | DrumkitRenderer | Responsible of rendering the drumkit and playing the drum sounds. |
 | Recorder.cs | Records the drum strokes. |
 
-You can read more about Direct3D for Windows Phone 8 from
-http://msdn.microsoft.com/en-us/library/windowsphone/develop/jj207062(v=vs.105).aspx
+You can read more about Direct3D for Windows Phone 8 from http://msdn.microsoft.com/en-us/library/windowsphone/develop/jj207062(v=vs.105).aspx
 
-Another Nokia Developer example on creating DirectX application on Windows Phone is available at
-http://www.developer.nokia.com/Community/Wiki/DirectX_on_Windows_Phone:_2D_Game_Example_using_DirectX_Toolkit
+Another Nokia Developer example on creating DirectX application on Windows Phone is available at http://www.developer.nokia.com/Community/Wiki/DirectX_on_Windows_Phone:_2D_Game_Example_using_DirectX_Toolkit
 
-More information on XAudio2 can be found from ?http://msdn.microsoft.com/en-us/library/windows/apps/Hh405049 and from an example application ?http://code.msdn.microsoft.com/windowsapps/Basic-Audio-Sample-9a5bb0b7 demonstrating the use of XAudio2 in an app.
+More information on XAudio2 can be found from http://msdn.microsoft.com/en-us/library/windows/apps/Hh405049 and from an example application http://code.msdn.microsoft.com/windowsapps/Basic-Audio-Sample-9a5bb0b7 demonstrating the use of XAudio2 in an app.
 
 Known issues
 ------------
