@@ -11,7 +11,7 @@ using System.Resources;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Nokia")]
 [assembly: AssemblyProduct("DrumkitX")]
-[assembly: AssemblyCopyright("Copyright © 2013 Nokia Corporation. All rights reserved.")]
+[assembly: AssemblyCopyright("Copyright (c) 2013 Nokia Corporation. All rights reserved.")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
