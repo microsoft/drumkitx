@@ -4,7 +4,7 @@ DrumkitX
 DrumkitX is a Windows Phone 8 port of the Drumkit XNA example using Direct3D and XAudio for fast graphics and low latency sample playback. This demo app lets you play percussion sounds by tapping the screen. You can record your beats, play them back later and also play drums on top of your latest recording.
 
 This example application is hosted in GitHub:
-https://github.com/nokia-developer/drumkitx
+https://github.com/Microsoft/drumkitx
 
 Developed with Microsoft Visual Studio Express for Windows Phone 2012.
 
@@ -86,11 +86,7 @@ No known issues.
 License
 -------
 
-    Copyright © 2013 Nokia Corporation. All rights reserved.
-    
-    Nokia, Nokia Developer, and HERE are trademarks and/or registered trademarks of
-    Nokia Corporation. Other product and company names mentioned herein may be
-    trademarks or trade names of their respective owners.
+    Copyright © 2013-2014 Microsoft Mobile. All rights reserved.
     
     License
     Subject to the conditions below, you may use, copy, modify and/or merge copies
@@ -124,10 +120,13 @@ License
     OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
     SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
     
-    Nokia Corporation retains the right to make changes to this document at any
+    Microsoft Mobile retains the right to make changes to this document at any
     time, without notice.
   
-Due to partly relying on the XAudio2 audio file playback sample, the application is also subject to the terms of MS-LPL license (included in the source code). The license file is also available online at http://projects.developer.nokia.com/drumkitx/browser/MS-LPL.txt
+Due to partly relying on the XAudio2 audio file playback sample, the application
+is also subject to the terms of MS-LPL license (included in the source code).
+The license file is also available online at
+https://github.com/Microsoft/drumkitx/browser/MS-LPL.txt
 
     MICROSOFT LIMITED PUBLIC LICENSE version 1.1
     This license governs use of code marked as “sample” or “example” available on this web site without a license agreement, as provided under the section above titled “NOTICE SPECIFIC TO SOFTWARE AVAILABLE ON THIS WEB SITE.” If you use such code (the “software”), you accept this license. If you do not accept the license, do not use the software.
