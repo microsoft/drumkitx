@@ -86,68 +86,10 @@ No known issues.
 License
 -------
 
-    Copyright © 2013-2014 Microsoft Mobile. All rights reserved.
-    
-    License
-    Subject to the conditions below, you may use, copy, modify and/or merge copies
-    of this software and associated content and documentation files (the “Software”)
-    to test, develop, publish, distribute, sub-license and/or sell new software
-    derived from or incorporating the Software, solely in connection with Nokia
-    devices. Some of the documentation, content and/or software maybe licensed under
-    open source software or other licenses. To the extent such documentation,
-    content and/or software are included, licenses and/or other terms and conditions
-    shall apply in addition and/or instead of this notice. The exact terms of the
-    licenses, disclaimers, acknowledgements and notices are reproduced in the
-    materials provided, or in other obvious locations. No other license to any other
-    intellectual property rights is granted herein.
-    
-    This file, unmodified, shall be included with all copies or substantial portions
-    of the Software that are distributed in source code form.
-    
-    The Software cannot constitute the primary value of any new software derived
-    from or incorporating the Software.
-    
-    Any person dealing with the Software shall not misrepresent the source of the
-    Software.
-    
-    Disclaimer
-    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-    IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
-    FOR A PARTICULAR PURPOSE, QUALITY AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-    AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES (INCLUDING,
-    WITHOUT LIMITATION, DIRECT, SPECIAL, INDIRECT, PUNITIVE, CONSEQUENTIAL,
-    EXEMPLARY AND/ OR INCIDENTAL DAMAGES) OR OTHER LIABILITY, WHETHER IN AN ACTION
-    OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
-    SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-    
-    Microsoft Mobile retains the right to make changes to this document at any
-    time, without notice.
-  
-Due to partly relying on the XAudio2 audio file playback sample, the application
-is also subject to the terms of MS-LPL license (included in the source code).
-The license file is also available online at
-https://github.com/Microsoft/drumkitx/browser/MS-LPL.txt
+See the license file delivered with this project.
+The license is also available online at
+https://github.com/Microsoft/drumkitx/blob/master/License.txt
 
-    MICROSOFT LIMITED PUBLIC LICENSE version 1.1
-    This license governs use of code marked as “sample” or “example” available on this web site without a license agreement, as provided under the section above titled “NOTICE SPECIFIC TO SOFTWARE AVAILABLE ON THIS WEB SITE.” If you use such code (the “software”), you accept this license. If you do not accept the license, do not use the software.
-    
-    1. Definitions
-    The terms “reproduce,” “reproduction,” “derivative works,” and “distribution” have the same meaning here as under U.S. copyright law.
-    A “contribution” is the original software, or any additions or changes to the software.
-    A “contributor” is any person that distributes its contribution under this license.
-    “Licensed patents” are a contributor’s patent claims that read directly on its contribution.
-    
-    2. Grant of Rights
-    (A) Copyright Grant - Subject to the terms of this license, including the license conditions and limitations in section 3, each contributor grants you a non-exclusive, worldwide, royalty-free copyright license to reproduce its contribution, prepare derivative works of its contribution, and distribute its contribution or any derivative works that you create.
-    (B) Patent Grant - Subject to the terms of this license, including the license conditions and limitations in section 3, each contributor grants you a non-exclusive, worldwide, royalty-free license under its licensed patents to make, have made, use, sell, offer for sale, import, and/or otherwise dispose of its contribution in the software or derivative works of the contribution in the software.
-    
-    3. Conditions and Limitations
-    (A) No Trademark License- This license does not grant you rights to use any contributors’ name, logo, or trademarks.
-    (B) If you bring a patent claim against any contributor over patents that you claim are infringed by the software, your patent license from such contributor to the software ends automatically.
-    (C) If you distribute any portion of the software, you must retain all copyright, patent, trademark, and attribution notices that are present in the software.
-    (D) If you distribute any portion of the software in source code form, you may do so only under this license by including a complete copy of this license with your distribution. If you distribute any portion of the software in compiled or object code form, you may only do so under a license that complies with this license.
-    (E) The software is licensed “as-is.” You bear the risk of using it. The contributors give no express warranties, guarantees or conditions. You may have additional consumer rights under your local laws which this license cannot change. To the extent permitted under your local laws, the contributors exclude the implied warranties of merchantability, fitness for a particular purpose and non-infringement.
-    (F) Platform Limitation - The licenses granted in sections 2(A) and 2(B) extend only to the software or derivative works that you create that run directly on a Microsoft Windows operating system product, Microsoft run-time technology (such as the .NET Framework or Silverlight), or Microsoft application platform (such as Microsoft Office or Microsoft Dynamics).
 
 Version history
 ---------------
